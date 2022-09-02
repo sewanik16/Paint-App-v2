@@ -58,7 +58,7 @@ body, .main{
   justify-content: center;
   align-items: center;
   color: white;
-  cursor: pointer;
+  cursor: url("buk2.png"),url("fill2.png"),default;
 }
 button{
   cursor: pointer;
